@@ -147,8 +147,25 @@
       <excludeFolder url="file://$MODULE_DIR$/ch14/image_editor/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ch14/image_editor/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ch14/image_editor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch07_webview_v4/blog_web_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch07_webview_v4/blog_web_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch07_webview_v4/blog_web_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch_04_dart3_temp/dart_3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch_04_dart3_temp/dart_3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch_04_dart3_temp/dart_3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_finished/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_finished/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_finished/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20/calendar_scheduler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20/calendar_scheduler/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20/calendar_scheduler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_template/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_template/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch20_auth_temp/calendar_scheduler_template/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
