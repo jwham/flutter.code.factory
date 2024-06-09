@@ -6,4 +6,25 @@ void main() {
   };
   print(dictionary['Harry Potter']);
   print(dictionary['Hermione Granger']);
+
+  Map<int, String> test = {
+    1 : 'test',
+    2 : 'test2',
+    2 : 'test3'
+  };
+
+  print(test[1]);
+  print(test[2]);
+
+  Map<int, List<String>> test2 = {
+    1 : ['지원'],
+    2 : ['함지']
+  };
+
+  print(test2[2]);
+
+
+
+
+
 }
