@@ -1,11 +1,11 @@
 int addTwoNumbers(
     int a, {
-      required int b,
-      int c = 4,
+      int b = 4,
+      required int c,
     }) {
   return a + b + c;
 }
 
 void main() {
-  print(addTwoNumbers(1, b: 3, c: 7));
+  print(addTwoNumbers(1, c: 7));
 }

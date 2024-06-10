@@ -3,6 +3,7 @@ void main() {
 
   // 일반 함수로 모든 값 더하기
   final allMembers = numbers.reduce((value, element) {
+    print(value);
     return value + element;
   });
 

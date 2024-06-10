@@ -10,5 +10,7 @@ void main() {
 
     // ➋ try에서 에러가 발생했으니 catch 로직이 실행됩니다.
     print(e);
+  } finally {
+    print('ttt');
   }
 }
