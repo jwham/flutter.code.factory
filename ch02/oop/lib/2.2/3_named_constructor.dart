@@ -15,6 +15,7 @@ class Idol {
       : this.name = map['name'],
         this.membersCount = map['membersCount'];
 
+
   void sayName() {
     print('저는 ${this.name}입니다. ${this.name} 멤버는 ${this.membersCount}명입니다.');
   }
@@ -30,5 +31,6 @@ void main() {
     'name': 'BTS',
     'membersCount': 7,
   });
+
   bts.sayName();
 }
